@@ -1,0 +1,9 @@
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\bin\Debug\KDZ1.exe.config
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\obj\Debug\KDZ1.exe
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\obj\Debug\KDZ1.pdb
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\bin\Debug\KDZ1.exe
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\bin\Debug\KDZ1.pdb
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\obj\Debug\Mukhin_111.csprojResolveAssemblyReference.cache
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\obj\Debug\KDZ1.FractalApplication.resources
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\obj\Debug\KDZ1.Properties.Resources.resources
+C:\Users\apleu\Documents\Visual Studio 2015\Projects\Mukhin_111\Mukhin_111\obj\Debug\Mukhin_111.csproj.GenerateResource.Cache

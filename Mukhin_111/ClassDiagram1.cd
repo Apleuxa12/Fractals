@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KDZ1.AlertManager">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlertManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.Constants">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAAAAACAEAAAgAAAkAAAAABAAAAAAIRAEgCAAAkAA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.Fractal">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAQAAgAAAAIEAABEAAAAAAAAQAAAAAAAAAI=</HashCode>
+      <FileName>Fractal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.GradientList">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GradientList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.KantorArray">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAIgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KantorArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.OutputManager">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAEAEAAAAAAAAAA=</HashCode>
+      <FileName>OutputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.Program" Collapsed="true">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.SCarpet">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SCarpet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.STriangle">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>STriangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KDZ1.FractalApplication" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIQACCABECABApAVgAiCgBBLICAoAAAAABICSkBAAiA=</HashCode>
+      <FileName>FractalApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
