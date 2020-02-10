@@ -2,6 +2,9 @@
 
 namespace KDZ1
 {
+    /// <summary>
+    /// Класс, реализующий Ковер Серпинского
+    /// </summary>
     class SCarpet : Fractal
     {
         /// <summary>

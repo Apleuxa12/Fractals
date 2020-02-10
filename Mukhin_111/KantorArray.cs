@@ -2,6 +2,9 @@
 
 namespace KDZ1
 {
+    /// <summary>
+    /// Класс, реализующий Множество Кантора
+    /// </summary>
     class KantorArray : Fractal
     {
         /// <summary>
